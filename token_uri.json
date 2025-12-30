@@ -1,0 +1,9 @@
+{
+  "name": "Albus Dumbledore",
+  "symbol": "GRYF",
+  "description": "House of courage, bravery, and determination.",
+  "image": "https://raw.githubusercontent.com/harshitneversettle/images/d990e9f5dd4b42d69009b69d75351f45902b9282/image.png",
+  "attributes": [
+    { "trait_type": "House", "value": "Gryffindor" }
+  ]
+}
