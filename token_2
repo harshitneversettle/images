@@ -1,0 +1,10 @@
+
+{
+  "name": "lol",
+  "symbol": "GRYF",
+  "description": "House of courage, bravery, and determination.",
+  "image": "https://raw.githubusercontent.com/harshitneversettle/images/main/image.png",
+  "attributes": [
+    { "trait_type": "House", "value": "Gryffindor" }
+  ]
+}
